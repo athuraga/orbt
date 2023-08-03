@@ -1,0 +1,9 @@
+/* Webfont: Jupitex-SansSerif */@font-face {
+    font-family: 'Jupitex';
+    src: url('Jupitex Sans Serif.woff2') format('woff2'), /* Modern Browsers */
+         url('Jupitex Sans Serif.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
